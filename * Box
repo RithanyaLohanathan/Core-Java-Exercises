@@ -6,7 +6,7 @@ public class Main {
             System.out.print(" ");
             continue;
           }
-          System.out.print(j);
+          System.out.print("*");
         }
         System.out.println();
       }
